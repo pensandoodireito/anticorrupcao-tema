@@ -1,15 +1,15 @@
 {
-  "name": "pensandoodireito/debatepublico-tema",
+  "name": "pensandoodireito/anticorrupcao-tema",
   "version": "0.0.1",
   "type": "wordpress-theme",
-  "description": "Tema genérico para Debates Públicos",
+  "description": "Tema usado no debate público sobre Medidas Anticorrupção",
   "keywords": [
     "theme",
     "wordpress",
     "democracy",
     "participação"
   ],
-  "homepage": "https://github.com/pensandoodireito/debatepublico-tema",
+  "homepage": "https://github.com/pensandoodireito/anticorrupcao-tema",
   "license": "GPL-3",
   "authors": [
     {
@@ -35,7 +35,13 @@
       "email": "marilucchesi@gmail.com",
       "homepage": "http://participacao.mj.gov.br/",
       "role": "Developer"
-    }
+    },
+    {
+      "name": "Josafá Filho",
+      "email": "josafafilho15@gmail.com",
+      "homepage": "http://participacao.mj.gov.br/",
+      "role": "Developer"
+    },
   ],
   "require": {
     "composer/installers": "~1.0",

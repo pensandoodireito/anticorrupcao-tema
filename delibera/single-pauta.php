@@ -3,7 +3,7 @@ get_header();
 $situacao = delibera_get_situacao( get_the_ID() );
 ?>
 
-<div class="conteudo" id="debatepublico-generic">
+<div class="conteudo" id="anticorrupcao-generic">
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
